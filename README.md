@@ -40,7 +40,7 @@ Manual testing of a web-based learning platform with API validation.
 
 ---
 
-### [🤖 Stamply QA Automation](https://github.com/BartKowalskii/portfolio-QA/tree/main/WaniKani)](https://github.com/BartKowalskii/Stamply_qa_automation)
+### [🤖 Stamply QA Automation] (https://github.com/BartKowalskii/portfolio-QA/tree/main/WaniKani)](https://github.com/BartKowalskii/Stamply_qa_automation)
 UI automation framework for a live web application.
 
 **Built with:**
