@@ -29,7 +29,7 @@ Manual end-to-end testing of a pre-release iOS betting application.
 
 ---
 
-### 🌐 WaniKani Web & API Testing
+### [🌐 WaniKani Web & API Testing](https://github.com/BartKowalskii/portfolio-QA/tree/main/WaniKani)
 Manual testing of a web-based learning platform with API validation.
 
 **Covered:**
@@ -40,7 +40,7 @@ Manual testing of a web-based learning platform with API validation.
 
 ---
 
-### 🤖 Stamply QA Automation (https://github.com/BartKowalskii/portfolio-QA/tree/main/WaniKani)
+### [🤖 Stamply QA Automation](https://github.com/BartKowalskii/portfolio-QA/tree/main/WaniKani)](https://github.com/BartKowalskii/Stamply_qa_automation)
 UI automation framework for a live web application.
 
 **Built with:**
